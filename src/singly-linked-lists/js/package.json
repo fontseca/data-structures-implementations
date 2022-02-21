@@ -1,0 +1,13 @@
+{
+  "name": "linked-list",
+  "author": "Jeremy Fonseca",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
