@@ -50,7 +50,10 @@ int balanced(char *str)
     else if (*(str + i) == 41 || *(str + i) == 93 || *(str + i) == 125)
     {
       if (is_emtpy(st) || !match(peek(st), *(str + i)))
+      {
+        remove_stack(st);
         return 0;
+      }
       else
         pop(st);
     }
