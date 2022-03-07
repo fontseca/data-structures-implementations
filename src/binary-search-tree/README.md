@@ -1,6 +1,7 @@
 # Binary Search Tree
 
 ## Implementations
+  - ### [C](./c/main.c)
   - ### [JavaScript](./js/bst.js)
 
 ## See more
