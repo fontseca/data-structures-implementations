@@ -5,6 +5,7 @@
   - [Doubly Linked Lists](./src/doubly-linked-list/README.md)
   - [Stack](./src/stack/README.md)
   - [Queue](./src/queue/README.md)
+  - [Binary Search Tree](./src/binary-search-tree/README.md)
 
 ## See more
   - [Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
